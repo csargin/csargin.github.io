@@ -1,2 +1,1 @@
-# csargin.github.io
-Web
+# https://csargin.github.io/
